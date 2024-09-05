@@ -1,5 +1,3 @@
-Here’s a `README.md` template you can use for your GitHub project:
-
 ```markdown
 # CoreManage
 
@@ -125,7 +123,7 @@ This project is licensed under the MIT License.
 
 For any questions, feel free to reach out:
 
-- Ricardo Sipione - ricardo.sipione@example.com
+- Ricardo Sipione - ricardo@sipionetech.com
 ```
 
 ### How to Use:
