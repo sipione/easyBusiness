@@ -25,6 +25,7 @@ EasyBusiness is a management system tailored for freelancers and small business 
 
 The system follows a clean architecture, separating concerns into distinct layers. Here's a detailed breakdown:
 
+```plaintext
 EasyBusiness/
 ├── API/
 │   ├── API.csproj            # .NET Core project file
@@ -63,7 +64,7 @@ EasyBusiness/
 ├── microManager (2).pdf      # Business model documentation (example)
 ├── schema.png                # Database schema diagram
 └── software.sln              # Solution file for Visual Studio
-
+```
 ### API Structure
 
 - **Controllers**: Define REST API endpoints for managing users, contracts, payments, and other entities.
