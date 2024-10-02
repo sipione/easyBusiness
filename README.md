@@ -1,6 +1,5 @@
 Here's an improved version of the README file based on your current folder structure:
 
-```markdown
 # EasyBusiness
 
 EasyBusiness is a management system tailored for freelancers and small business owners to efficiently manage contracts, payments, cash flow, stakeholders, and subaccounts. Built with a .NET C# backend, the system is designed to offer flexibility, scalability, and extensibility, with a future frontend implementation in React or Blazor.
@@ -26,7 +25,6 @@ EasyBusiness is a management system tailored for freelancers and small business 
 
 The system follows a clean architecture, separating concerns into distinct layers. Here's a detailed breakdown:
 
-```
 EasyBusiness/
 ├── API/
 │   ├── API.csproj            # .NET Core project file
@@ -65,7 +63,6 @@ EasyBusiness/
 ├── microManager (2).pdf      # Business model documentation (example)
 ├── schema.png                # Database schema diagram
 └── software.sln              # Solution file for Visual Studio
-```
 
 ### API Structure
 
@@ -141,7 +138,6 @@ This project is licensed under the MIT License.
 For any inquiries, reach out to:
 
 - Ricardo Sipione - ricardo@sipionetech.com
-```
 
 ### Key Improvements:
 1. Refined **folder structure** explanation to reflect your project better.
